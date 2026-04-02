@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; }
+
+h1, h2 { color: #333; }
+
+#employees, #projects, #salaries { margin: 20px; }
+
+ul { list-style-type: none; padding: 0; }
